@@ -1,3 +1,5 @@
+// See LICENSE for license details.
+
 /**
   * 「Hello, word!」を表示するクラス
   */

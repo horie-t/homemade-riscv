@@ -1,3 +1,5 @@
+// See LICENSE for license details.
+
 import chisel3._
 
 /** 半加算器

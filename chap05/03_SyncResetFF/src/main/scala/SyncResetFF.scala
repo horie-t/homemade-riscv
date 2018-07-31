@@ -1,3 +1,5 @@
+// See LICENSE for license details.
+
 import chisel3._
 
 /** 同期式リセット機能付きフリップフロップ

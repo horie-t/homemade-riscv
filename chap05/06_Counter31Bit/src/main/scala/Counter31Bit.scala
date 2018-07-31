@@ -1,3 +1,5 @@
+// See LICENSE for license details.
+
 import chisel3._
 
 /** 31ビットカウンタ。上位4ビットの値を7セグメントLEDで表示。
